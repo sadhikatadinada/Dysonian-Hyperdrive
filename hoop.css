@@ -62,7 +62,7 @@ section {
 .left {
   width: 90%;
   height: 600px;
-  background: url(images/hoop.jpg)
+  background: url(hap_logo.png)
     no-repeat center / cover;
   border-radius: 8px;
 }
